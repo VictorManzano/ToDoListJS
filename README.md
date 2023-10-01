@@ -1,4 +1,4 @@
-# Titulo: Página de cadastro e login com HTML e CSS.
+# Titulo: Lista de tarefas ou ToDoList.
 
 ## Acessar: https://victormanzano.github.io/ToDoListJS/
 
